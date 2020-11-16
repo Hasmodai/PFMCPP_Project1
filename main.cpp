@@ -108,13 +108,13 @@ baby.smile();
 //  action 3: cries
 baby.cry();
 //  8)
-//  Noun: Roomba
-//  action 1: spins brushes
-roomba.spinnBrushes();
-//  action 2: changes direction
-roomba.changeDirection();
-//  action 3: goes to charging dock
-roomba.goToDock();
+//  Noun: Sun Flower
+//  action 1: Does photosynthesis
+sunFlower.startPhotosynthesis();
+//  action 2: Follows Light
+sunFlower.followLight();
+//  action 3: Grows seeds
+sunFlower.growSeed();
 //  9) 
 //  Noun: cellphone 
 //  action 1: displays caller id
