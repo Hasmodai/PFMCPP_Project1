@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: headphones
+//  action 1: Transduce electric to acoustic energy
+headphones.transduce();
+//  action 2: Cancel Noise
+headphones.cancelNoise();
+//  action 3: Lights up led when battery is low
+headphones.ledOn(); 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Audio Interface
+//  action 1: Powers microphone
+audioInterface.phantomPowerOn();
+//  action 2: converts analog signals to digital
+audioInterface.analogToDigital();
+//  action 3: converts digital signals to analog
+audioInterface.digitalToAnalog();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: coffee maker
+//  action 1: makes coffee
+coffeeMaker.makeCoffee();
+//  action 2: counts time
+coffeeMaker.countTime();
+//  action 3: beeps when timer is out
+coffeeMaker.beep();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Dog 
+//  action 1: Barks
+dog.bark();
+//  action 2: Poops
+dog.poop();
+//  action 3: chases tail
+dog.chaseTail();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Washing machine
+//  action 1: fills tank with water
+washingMachine.fillTank();
+//  action 2: rotates tank 
+washingMachine.rotateTank();
+//  action 3: dries clothes
+ washingMachine.dryCycle();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Printer
+//  action 1:n Pulls paper
+printer.pullPaper();
+//  action 2: checks ink cartridges
+printer.checkCartridges();
+//  action 3: scans 
+printer.scan();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: baby
+//  action 1: eats
+baby.eat();
+//  action 2: smiles
+baby.smile();
+//  action 3: cries
+baby.cry();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Sun Flower
+//  action 1: Does photosynthesis
+sunFlower.startPhotosynthesis();
+//  action 2: Follows Light
+sunFlower.followLight();
+//  action 3: Grows seeds
+sunFlower.growSeed();
+//  9) 
+//  Noun: cellphone 
+//  action 1: displays caller id
+cellphone.displayCallerID();
+//  action 2: displays notifications
+cellphone.displayNotification();
+//  action 3: plays ringtone
+cellphone.playRingtone();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: elevator 
+//  action 1: checks if door is closed
+elevator.checkDoor();
+//  action 2: beeps
+elevator.beep();
+//  action 3: activates emergency breaks
+ elevator.activateEmergencyBreaks();
 
 
 #endif
